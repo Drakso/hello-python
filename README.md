@@ -1,4 +1,4 @@
-# Hello Python 🍮
+# Hello Python 🐍
 
 ## Installation
 
