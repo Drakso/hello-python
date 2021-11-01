@@ -1,5 +1,30 @@
 # Hello Python 🐍
 
+## Navigation
+
+* [Instalation](#installation)
+* [Creating a PyCharm project](#creating-a-pycharm-project)
+* [Running a Python app](#running-a-python-app)
+* [PyCharm](#pycharm)
+* [Practices](#practices)
+* [Variables](#variables)
+* [Data Types](#data-types)
+* [Console](#console)
+* [Arithmetic operators](#arithmetic-operators)
+* [Comparison operators](#comparison-operators)
+* [Logical operators](#logical-operators)
+* [Code execution](#code-execution)
+* [Working with strings](#working-with-strings)
+* [If/Else](#ifelse)
+* [Loops](#loops)
+* [Collections/Arrays](#collectionsarrays)
+* [Conversion](#conversion)
+* [Functions and Methods](#functions-and-methods)
+* [Importing modules](#importing-modules)
+* [Modules](#modules)
+* [Packages](#packages)
+* [Resources](#resources)
+
 ## Installation
 
 1. Go to the [python website](https://www.python.org/downloads/) and download the latest version of python
