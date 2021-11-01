@@ -1,6 +1,6 @@
 # Hello Python 🐍
 
-## Navigation
+## Navigation 🗺
 
 * [Instalation](#installation)
 * [Creating a PyCharm project](#creating-a-pycharm-project)
@@ -650,7 +650,7 @@ messaging.error("Problem!")
 messaging.success("Yay!")
 ```
 
-## Resources
+## Resources 📚
 
 * [Official Documentation](https://docs.python.org/3/)
 * [Module Index](https://docs.python.org/3/py-modindex.html)
