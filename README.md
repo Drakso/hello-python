@@ -650,7 +650,7 @@ messaging.error("Problem!")
 messaging.success("Yay!")
 ```
 
-## Resources 📚
+## Resources
 
 * [Official Documentation](https://docs.python.org/3/)
 * [Module Index](https://docs.python.org/3/py-modindex.html)
